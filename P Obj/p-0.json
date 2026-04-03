@@ -21,5 +21,6 @@
   "movespeed" : 100,
   "speedattackmove" : 0.1,
 
-  "swordpng" : 21
+  "swordpng" : 21,
+  "type" : "a"
 }
