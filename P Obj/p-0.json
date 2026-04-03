@@ -13,8 +13,8 @@
   "mobw2" : 29,
   "mobw3" : 30,
 
-  "swordposx" : 0,
-  "swordposy" : 0,
+  "swordposx" : 8,
+  "swordposy" : 11,
 
   "hp" : 5,
   "attack" : 1,
