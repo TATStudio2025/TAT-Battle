@@ -1,1 +1,7 @@
-
+{
+  "worldsize" : 15,
+  "groundpng" : 2,
+  "cloudpng" : 1,
+  "grassbig" : 4,
+  
+}
