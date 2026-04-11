@@ -21,7 +21,7 @@
   "movespeed" : 100,
   "speedattackmove" : 0.1,
 
-  "swordpng" : 21,
+  "swordpng" : "sword.png",
   "type" : "a",
   "s" : 1,
   "sfx" : "p-0.wav"
