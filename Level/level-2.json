@@ -2,7 +2,7 @@
   "worldsize" : 15,
   "groundpng" : "grass.png",
   "cloudpng" : "cloud.png",
-  "grassbig" : "grass%20big.png",
+  "grassbig" : "grass big.png",
   "mountain" : "mountain.png",
   "towerplayer" : "home.png",
   "towermob" : "Mushroom.png",
