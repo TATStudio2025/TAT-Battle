@@ -18,7 +18,7 @@
   "swordposy" : 14,
 
   "hp" : 5,
-  "attack" : 1,
+  "attack" : 2,
   "movespeed" : 100,
   "speedattackmove" : 0.1,
 
